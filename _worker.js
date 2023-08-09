@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'http://www.google.com';
+const TELEGRAPH_URL = 'http://www.google.com/speech-api/v2/recognize';
 
 
 export default {
